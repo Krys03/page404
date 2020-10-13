@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://krys03.github.io/teampage/">
+    <a href="https://krys03.github.io/page404/">
       Demo
     </a>
     <span> | </span>
